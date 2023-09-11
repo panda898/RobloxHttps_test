@@ -8,9 +8,6 @@ export default function Home() {
 
       <main>
         <Header title="" />
-        <p className="description">
-        test <code>lol<code>
-        </p>
       </main>
 
       <Footer />
